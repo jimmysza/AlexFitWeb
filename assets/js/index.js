@@ -55,3 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 });
+
+const arrow_left = document.querySelector(".left-arrow");
+const arrow_right = document.querySelector(".right-arrow");
+
